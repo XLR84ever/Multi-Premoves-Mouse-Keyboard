@@ -1134,6 +1134,7 @@ contentCode(); */
 
 const modify = () => {
   //|mskchess\.ru
+  return;
   if (
     /^https:\/\/(lichess\.org|lichess\.dev)\/(\w{8}|\w{12})(\/white|\/black)?$/.test(
       window.location.href
