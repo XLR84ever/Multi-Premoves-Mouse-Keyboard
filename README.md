@@ -18,7 +18,6 @@ Your page zoom might need to be set to 100% (haven't tested it thorougly)
 
 Other settings should probably not affect stability.
 
-[How to install](https://lichess.org/forum/team-welcome-keyboard/how-to-install-the-new-kb--multi-premoves-extension-2)
  
 # Multi Premoves For Mouse and Keyboard
 Creating unlimited multiple premoves compatible with all Lichess styles of playing (keyboard, mouse, touchscreen)
@@ -26,9 +25,7 @@ Creating unlimited multiple premoves compatible with all Lichess styles of playi
 # Important:
 - This extension also includes keyboard.
 - This extension is experiemental, but should have higher capacities than the previous KB extension. If you see a bug, open a new issue and describe it in detail. 
-- You can watch the installation process in this [video](https://youtu.be/NPs62vX1Dk0)
 Also it's important to read the information below. 
-- [How to install](https://lichess.org/forum/team-welcome-keyboard/how-to-install-the-new-kb--multi-premoves-extension-2)
 - To access the settings, click the extension's icon (pin it if necessary)
 - The option [How do you move pieces](https://lichess.org/account/preferences/game-behavior) should be set to either `drag` or `both`. Using `drag` should be more reliable. If you use kb only and have any problems with moves, try switching to 'drag' as well. 
 - For now it only supports [autoqueen](https://lichess.org/account/preferences/game-behavior) (and possibly autoqueen on premoves as well). If you promote to something else it might break. 
