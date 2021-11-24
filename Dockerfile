@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /usr/src/Multi-Premoves-Mouse-Keyboard/Extension
+WORKDIR /usr/src/ichess-gui-use-code-example-new/Extension
 
 COPY package*.json ./
 
