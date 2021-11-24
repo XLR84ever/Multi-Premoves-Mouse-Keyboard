@@ -2,7 +2,7 @@
   "name": "Lichess Multi Premoves",
   "version": "0.0.0.1",
   "description": "Lichess Multi Premoves",
-  "author": "Sentero-esp12",
+  "author": "mr-yt12",
   "main": "script.js",
   "scripts": {
     "start": "script.js"
