@@ -1,7 +1,7 @@
 [![Test](https://github.com/mr-yt12/lichess-gui-use-code-example-new/actions/workflows/node.js.yml/badge.svg)](https://github.com/mr-yt12/lichess-gui-use-code-example-new/actions/workflows/node.js.yml)
 
 **The extension is no longer supported — remove line 1137 in content.js to test**  
-For testing only: https://github.com/mr-yt12/lichess-gui-use-code-example-new/archive/45bba92fc6f09288b8803f8ec412b2fa323c3a1d.zip
+[For testing only](https://github.com/mr-yt12/lichess-gui-use-code-example-new/archive/45bba92fc6f09288b8803f8ec412b2fa323c3a1d.zip)
 
 **Currently the extensions are not actively maintained and have bugs and may break at any point. I'm not playing ultra that much nowadays, so I'm not working on the extensions anymore, but hopefully someone could continue this work or, perhaps, if someone rich can sponsor me, I will continue working on them myself: [patreon post](https://www.patreon.com/posts/lichess-keyboard-53287800) (as a freelance job).**
 
