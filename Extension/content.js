@@ -1136,7 +1136,7 @@ const modify = () => {
   //|mskchess\.ru
   if (window.location.host === 'lichess.org') {return;} //deactivate on Lichess, but allow on Lichess forks
   if (
-    /^https:\/\/(lichess\.org|lichess\.dev)\/(\w{8}|\w{12})(\/white|\/black)?$/.test(
+    /^https:\/\/(mskchess\.ru|lichess\.dev)\/(\w{8}|\w{12})(\/white|\/black)?$/.test(
       window.location.href
     )
   ) {
