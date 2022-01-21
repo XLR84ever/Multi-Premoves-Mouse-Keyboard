@@ -4,6 +4,7 @@
   "description": "Lichess Multi Premoves",
   "author": "mr-yt12",
   "main": "script.js",
+  "funding": "patreon.com/ultrachess", 
   "scripts": {
     "start": "script.js"
   },
